@@ -10,9 +10,9 @@
 
 <?php
 
-$servername = "192.168.2.13";
-$username = "business-admin";
-$password = "admin";
+$servername = "asgn2-db.cddfazz6mjhm.us-east-1.rds.amazonaws.com";
+$username = "admin";
+$password = "admin3409853";
 $dbname = "business";
 // Create connection
 $con = new mysqli($servername, $username, $password, $dbname);
