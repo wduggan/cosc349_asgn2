@@ -10,9 +10,9 @@
 
 <?php
 
-$servername = "192.168.2.13";
-$username = "business-admin";
-$password = "admin";
+$servername = "asgn2-db.cddfazz6mjhm.us-east-1.rds.amazonaws.com";
+$username = "admin";
+$password = "admin3409853";
 $dbname = "business";
 // Create connection
 $con = new mysqli($servername, $username, $password, $dbname);
@@ -25,7 +25,7 @@ if ($con->connect_error) {
 
 <body>
 	<section class="top-box">
-		<a href="http://127.0.0.1:8081/">Admin</a>
+		<a href="http://ec2-184-73-128-114.compute-1.amazonaws.com/">Admin</a>
 	</section>
 
 	<header>

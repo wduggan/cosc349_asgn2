@@ -10,7 +10,7 @@
 
 <body>
     <section class="top-box">
-        <a href="http://127.0.0.1:8081/">Admin</a>
+        <a href="http://ec2-184-73-128-114.compute-1.amazonaws.com/">Admin</a>
     </section>
 
     <header>
