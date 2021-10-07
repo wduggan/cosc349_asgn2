@@ -27,6 +27,8 @@ sudo pip3 install boto3
 
 Install mysql:
 sudo apt-get -y install mysql-server
+OR
+sudo apt install mysql-client-core-5.7
 
 Mysql connection:
 mysql -h <endpoint> -P 3306 -u <mymasteruser> -p
