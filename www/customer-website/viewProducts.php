@@ -25,6 +25,9 @@ if ($con->connect_error) {
 
 <body>
 	<section class="top-box">
+	<figure>
+		<img src="https://349-db-backup.s3.amazonaws.com/fake-logo.jpg" alt="Fake Logo" width="80" height="80"> 
+	</figure>
 		<a href="http://ec2-184-73-128-114.compute-1.amazonaws.com/">Admin</a>
 	</section>
 

@@ -10,6 +10,9 @@
 
 <body>
     <section class="top-box">
+	<figure>
+		<img src="https://349-db-backup.s3.amazonaws.com/fake-logo.jpg" alt="Fake Logo" width="80" height="80"> 
+	</figure>
         <a>Welcome Admin</a>
     </section>
 
