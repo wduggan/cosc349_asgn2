@@ -14,3 +14,6 @@ To use the administration website, enter the following into any web browser:
 ```
 http://ec2-184-73-128-114.compute-1.amazonaws.com or http://184.73.128.114
 ```
+
+## How to use the application:
+Note: To watch the demo video of the application working, click on ‘349-asgn2-demo.mp4’ in the repository, then click on ‘View Raw’ and the video will download for you to watch. 
